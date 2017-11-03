@@ -1,0 +1,99 @@
+{
+	"_id" : ObjectId("59eabbfe031b4b0f5bc249d3"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:14",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=https://www.nytimes.com/2017/10/20/technology/amazon-sexual-harassment.html&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNGZkHsQrHeWl1IjUhR86eXyou-n_Q",
+	"title" : "Inside  Amazon , Diversity Concerns Flare Up After Harassment Accusations"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249d4"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://nypost.com/2017/10/20/how-de-blasio-and-cuomo-made-nyc-a-rotten-suitor-for-amazon/&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNEmy1Zqp2RVlmudpOO8tk2k9ZEnlw",
+	"title" : "How de Blasio and Cuomo made NYC a rotten suitor for  Amazon "
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249d5"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.desertsun.com/story/money/business/2017/10/20/riverside-county-seeks-land-amazons-hq-2/785934001/&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNE7k-WSIGZToPXD1avyQayjkm12ag",
+	"title" : "Riverside County makes bid to land second  Amazon  headquarters, proposes five cities"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249d6"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://crosscut.com/2017/10/amazon-hq2-cities-bidding-sports-arena/&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNE01wmkNjUgCZeKDSw0X7aeL_1XgQ",
+	"title" : "The  Amazon  groveling is turning into a sport"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249d7"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.barrons.com/articles/nokia-amazon-work-signals-public-cloud-telecom-takeover-says-william-blair-1508533793&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNGaBnKqCQWXy9rhLJlmKPWNGYjx5A",
+	"title" : "Nokia- Amazon  Work Signals Public Cloud Telecom Takeover, Says William Blair"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249d8"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.marketwatch.com/story/amazon-earnings-analysts-await-news-of-the-whole-foods-impact-2017-10-20&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNHUOfaE5yNYhriH7wN5__ui4_IJfw",
+	"title" : " Amazon  earnings: Analysts await news of the Whole Foods impact"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249d9"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.freep.com/story/money/business/2017/10/20/amazon-headquarters-pitch-videos/783900001/&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNGvLxenr95IW2oQc8MEA393mT0RZg",
+	"title" : "Watch  Amazon  pitch videos from 7 cities. Which one is the best?"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249da"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=https://www.mass.gov/hq2/&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNGFYFGh9KNUb0AoF35CdBWj0GJP8Q",
+	"title" : "HQ2 MA"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249db"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.chicagotribune.com/business/columnists/ct-biz-amazon-hq2-sites-unveiled-ryan-ori-20171020-story.html&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNFeoyZB0mzeafh6WOJf3CSqWMJRfw",
+	"title" : "Here are the 10 sites Chicago and Illinois sent to  Amazon  for HQ2"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249dc"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://money.cnn.com/2017/10/20/technology/amazon-second-headquarters-canada-mexico/index.html&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNGV9Nb5osR9sb36FSqUgP9leCnAtA",
+	"title" : " Amazon  could put its second HQ in Canada. But will it?"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249dd"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://jacksonville.com/news/metro/columnists/2017-10-20/mark-woods-alexa-what-are-odds-amazon-picking-jacksonville&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNEgJhfSpUq7cutCn0qELVVsuH-7nA",
+	"title" : "Mark Woods: “Alexa, what are odds of  Amazon  picking Jacksonville?”"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249de"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=https://www.pcmag.com/review/356920/amazon-echo-2017&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNGx-rH89cNoShI79CAORewAOefeAA",
+	"title" : " Amazon  Echo (2017)"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249df"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.crainsdetroit.com/article/20171020/news/642571/detroit-windsor-pitch-to-amazon-were-one-community&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNHew-7EXbo9G3XqMZIYeOfwBsD1PA",
+	"title" : "Detroit-Windsor pitch to  Amazon : We&#39;re &#39;one community&#39;"
+}
+{
+	"_id" : ObjectId("59eabbff031b4b0f5bc249e0"),
+	"topic" : "Amazon",
+	"Date" : "2017/10/21 08:46:15",
+	"link" : "https://www.google.com/url?rct=j&sa=t&url=http://www.poconorecord.com/news/20171020/monroe-joins-amazon-hunt&ct=ga&cd=CAIyGjA1NzcyZWM0OTQ2NmY5N2Q6Y29tOmVuOlVT&usg=AFQjCNHhCsUNgxT-1SO-3C9ur_kFJRQMlQ",
+	"title" : "Monroe joins  Amazon  hunt"
+}
+

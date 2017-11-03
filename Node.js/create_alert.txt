@@ -1,0 +1,11 @@
+alert:  { name: 'forth-ambit',
+  id: '16912021216838451528',
+  howOften: 2,
+  sources: [ undefined, undefined, undefined ],
+  lang: 'en',
+  region: 'IN',
+  howMany: 3,
+  deliverTo: 2,
+  rss: 'https://google.com/alerts/feeds/16394505447624128938/16912021216838451528',
+  deliverToData: '' }
+
