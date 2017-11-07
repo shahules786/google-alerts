@@ -47,7 +47,7 @@ def database(titled,linked,topic):
 #main
 
 try:
-	url = "https://google.com/alerts/feeds/16394505447624128938/12052220646232572503"
+	url = ""
 	html = urlopen(url)
 	
 	
