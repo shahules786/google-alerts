@@ -1,3 +1,4 @@
+#script written by shahules
 try:
 	from urllib import urlopen	
 	from bs4 import BeautifulSoup
